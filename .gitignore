@@ -1,0 +1,15 @@
+*.scr
+*.txt
+server_*
+chapter*
+
+config.cfg
+config_default.cfg
+
+360controller-linux.cfg
+360controller.cfg
+mtp.cfg
+replay_example.cfg
+sixense_bindings.cfg
+sourcevr_tf.cfg
+undo360controller.cfg
